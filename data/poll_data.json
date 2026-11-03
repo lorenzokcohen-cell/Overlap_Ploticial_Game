@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "id": "congress-term-limits",
+      "statement": "Members of Congress should face term limits.",
+      "original_wording": "Favor/oppose: limiting the number of terms that members of Congress can serve",
+      "d": 86,
+      "r": 90,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. ATP Waves 129/130; report released Sep 2023; exact field dates not shown on page."
+    },
+    {
+      "id": "scotus-age-limit",
+      "statement": "Supreme Court justices should have a maximum age limit.",
+      "original_wording": "Favor/oppose: a maximum age limit for Supreme Court justices",
+      "d": 82,
+      "r": 68,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Released Sep 2023."
+    },
+    {
+      "id": "popular-vote",
+      "statement": "The presidential candidate who gets the most votes nationwide should win.",
+      "original_wording": "Change the system so the candidate who receives the most votes nationwide wins the presidency vs. keep current Electoral College system",
+      "d": 82,
+      "r": 47,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Released Sep 2023. A 2024 Pew reading (D 80, R 46) is cited in Pew's Jul 2026 short read."
+    },
+    {
+      "id": "voter-id",
+      "statement": "Voters should have to show government-issued ID.",
+      "original_wording": "Favor/oppose: requiring voters to show government-issued identification",
+      "d": 61,
+      "r": 93,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Released Sep 2023."
+    },
+    {
+      "id": "auto-voter-registration",
+      "statement": "All eligible citizens should be automatically registered to vote.",
+      "original_wording": "Favor/oppose: automatically registering all eligible citizens to vote",
+      "d": 80,
+      "r": 45,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/politics/2023/09/19/how-americans-view-proposals-to-change-the-political-system/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Released Sep 2023."
+    },
+    {
+      "id": "stock-trading-ban",
+      "statement": "Members of Congress should not be allowed to trade individual stocks.",
+      "original_wording": "Should elected officials [members of Congress] be allowed to trade individual stocks? (% should not be allowed)",
+      "d": 80,
+      "r": 77,
+      "pollster": "Economist/YouGov",
+      "fielded": "May 2026",
+      "url": "https://yougov.com/en-us/articles/54851-most-americans-think-congressional-corruption-is-widespread-may-22-26-2026-economist-yougov-poll",
+      "notes": "Democrats vs Republicans as reported by YouGov (party ID). Fielded May 22-26, 2026. Article also ran an experimental 'banned' wording (D 69%; R not reported)."
+    },
+    {
+      "id": "obey-supreme-court",
+      "statement": "The president must follow Supreme Court rulings, even ones he disagrees with.",
+      "original_wording": "If the Supreme Court rules against the president in a case, does the president have the power to ignore that ruling, or is the president required to do as the ruling says? (% required)",
+      "d": 92,
+      "r": 80,
+      "pollster": "Marquette Law School",
+      "fielded": "Sep 2025",
+      "url": "https://law.marquette.edu/poll/2025/10/02/new-marquette-law-school-poll-national-survey-finds-continuing-large-majority-who-say-a-president-must-obey-the-supreme-court/",
+      "notes": "Democrats vs Republicans; page does not state whether leaners included. Fielded Sep 15-24, 2025."
+    },
+    {
+      "id": "guns-mental-illness",
+      "statement": "People with mental illnesses should be prevented from buying guns.",
+      "original_wording": "Favor/oppose: preventing people with mental illnesses from purchasing guns",
+      "d": 89,
+      "r": 88,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/short-reads/2024/07/24/key-facts-about-americans-and-guns/",
+      "notes": "Labeled 'Democrats'/'Republicans' on page (Pew normally includes leaners). Page is Jul 2024 compilation; policy items appear to come from the Jun 2023 survey but field dates for these items are not explicitly stated."
+    },
+    {
+      "id": "gun-age-21",
+      "statement": "The minimum age for buying guns should be 21.",
+      "original_wording": "Favor/oppose: increasing the minimum age for buying guns to 21 years old",
+      "d": 90,
+      "r": 69,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/short-reads/2024/07/24/key-facts-about-americans-and-guns/",
+      "notes": "Same caveat as guns-mental-illness re: field dates."
+    },
+    {
+      "id": "teachers-carry-guns",
+      "statement": "Teachers and school officials should be allowed to carry guns in K-12 schools.",
+      "original_wording": "Favor/oppose: allowing teachers and school officials to carry guns in K-12 schools",
+      "d": 27,
+      "r": 74,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/short-reads/2024/07/24/key-facts-about-americans-and-guns/",
+      "notes": "Same caveat as guns-mental-illness re: field dates."
+    },
+    {
+      "id": "concealed-carry-more-places",
+      "statement": "People should be allowed to carry concealed guns in more places.",
+      "original_wording": "Favor/oppose: allowing people to carry concealed guns in more places",
+      "d": 19,
+      "r": 71,
+      "pollster": "Pew Research Center",
+      "fielded": "2023",
+      "url": "https://www.pewresearch.org/short-reads/2024/07/24/key-facts-about-americans-and-guns/",
+      "notes": "Same caveat as guns-mental-illness re: field dates."
+    },
+    {
+      "id": "more-solar",
+      "statement": "The U.S. should expand solar power.",
+      "original_wording": "Favor/oppose more solar power (Pew paraphrase; verbatim in linked questionnaire)",
+      "d": 91,
+      "r": 61,
+      "pollster": "Pew Research Center",
+      "fielded": "Apr-May 2025",
+      "url": "https://www.pewresearch.org/science/2025/06/05/americans-views-on-energy-at-the-start-of-trumps-second-term/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Apr 28-May 4, 2025."
+    },
+    {
+      "id": "more-wind",
+      "statement": "The U.S. should expand wind power.",
+      "original_wording": "Favor/oppose more wind power (Pew paraphrase; verbatim in linked questionnaire)",
+      "d": 87,
+      "r": 48,
+      "pollster": "Pew Research Center",
+      "fielded": "Apr-May 2025",
+      "url": "https://www.pewresearch.org/science/2025/06/05/americans-views-on-energy-at-the-start-of-trumps-second-term/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Apr 28-May 4, 2025."
+    },
+    {
+      "id": "more-nuclear",
+      "statement": "The U.S. should build more nuclear power plants.",
+      "original_wording": "Favor/oppose more nuclear power plants to generate electricity",
+      "d": 52,
+      "r": 69,
+      "pollster": "Pew Research Center",
+      "fielded": "Apr-May 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/10/16/support-for-expanding-nuclear-power-is-up-in-both-parties-since-2020/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Apr 28-May 4, 2025."
+    },
+    {
+      "id": "climate-gov-too-little",
+      "statement": "The federal government is doing too little to reduce the effects of climate change.",
+      "original_wording": "Is the federal government doing too much, too little, or about the right amount to reduce the effects of climate change? (% too little)",
+      "d": 87,
+      "r": 31,
+      "pollster": "Pew Research Center",
+      "fielded": "Mar 2026",
+      "url": "https://www.pewresearch.org/science/2026/05/28/americans-are-increasingly-pessimistic-about-avoiding-the-worst-effects-of-climate-change/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Mar 16-22, 2026. 'Agree' = said 'too little'."
+    },
+    {
+      "id": "phone-ban-class",
+      "statement": "Middle and high school students should be banned from using cellphones during class.",
+      "original_wording": "Would you support or oppose a ban that prevents middle and high school students from using cellphones during class?",
+      "d": 74,
+      "r": 81,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "phone-ban-all-day",
+      "statement": "Middle and high school students should be banned from using cellphones for the entire school day.",
+      "original_wording": "Would you support or oppose a ban that prevents middle and high school students from using cellphones during the entire school day?",
+      "d": 44,
+      "r": 55,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "social-media-under-16-ban",
+      "statement": "Anyone under 16 should be banned from using social media.",
+      "original_wording": "Would you support or oppose a ban that prevents anyone under the age of 16 from using social media sites?",
+      "d": 54,
+      "r": 59,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "social-media-parental-consent",
+      "statement": "Social media companies should require parental consent for minors to open an account.",
+      "original_wording": "Would you support social media companies requiring parental consent for minors to create a social media account?",
+      "d": 83,
+      "r": 89,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "social-media-age-verification",
+      "statement": "Social media sites should require people to verify their age.",
+      "original_wording": "Would you support social media companies requiring people to verify their age before using social media sites?",
+      "d": 76,
+      "r": 81,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "social-media-time-limits",
+      "statement": "Social media companies should limit how much time minors spend on their sites.",
+      "original_wording": "Would you support social media companies setting limits on how much time minors can spend on social media?",
+      "d": 78,
+      "r": 79,
+      "pollster": "Pew Research Center",
+      "fielded": "May-Jun 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded May 26-Jun 1, 2026."
+    },
+    {
+      "id": "gov-restrict-false-info",
+      "statement": "The government should restrict false information online, even if it limits freedom of information.",
+      "original_wording": "The U.S. government should take steps to restrict false information online, even if it limits freedom of information",
+      "d": 58,
+      "r": 43,
+      "pollster": "Pew Research Center",
+      "fielded": "Feb-Mar 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/04/14/support-dips-for-us-government-tech-companies-restricting-false-or-violent-online-content/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Feb 24-Mar 2, 2025."
+    },
+    {
+      "id": "tech-restrict-false-info",
+      "statement": "Tech companies should restrict false information online, even if it limits freedom of information.",
+      "original_wording": "Tech companies should take steps to restrict false information online, even if it limits freedom of information",
+      "d": 73,
+      "r": 47,
+      "pollster": "Pew Research Center",
+      "fielded": "Feb-Mar 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/04/14/support-dips-for-us-government-tech-companies-restricting-false-or-violent-online-content/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Feb 24-Mar 2, 2025."
+    },
+    {
+      "id": "ai-more-concerned",
+      "statement": "I'm more concerned than excited about the growing use of AI in daily life.",
+      "original_wording": "Does the increased use of artificial intelligence in daily life make you feel more excited than concerned, more concerned than excited, or equally both? (% more concerned)",
+      "d": 51,
+      "r": 50,
+      "pollster": "Pew Research Center",
+      "fielded": "Jun 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/11/06/republicans-democrats-now-equally-concerned-about-ai-in-daily-life-but-views-on-regulation-differ/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Jun 9-15, 2025."
+    },
+    {
+      "id": "trust-us-regulate-ai",
+      "statement": "I trust the U.S. government to regulate AI effectively.",
+      "original_wording": "How much do you trust the U.S. to regulate the use of AI effectively? (% a lot or some)",
+      "d": 36,
+      "r": 54,
+      "pollster": "Pew Research Center",
+      "fielded": "Mar 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/11/06/republicans-democrats-now-equally-concerned-about-ai-in-daily-life-but-views-on-regulation-differ/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Mar 24-30, 2025."
+    },
+    {
+      "id": "extend-aca-credits",
+      "statement": "Congress should extend the enhanced ACA health insurance tax credits.",
+      "original_wording": "Should Congress extend the enhanced premium tax credits for ACA marketplace enrollees, or let them expire? (% extend)",
+      "d": 91,
+      "r": 63,
+      "pollster": "KFF",
+      "fielded": "Jun 2025",
+      "url": "https://www.kff.org/affordable-care-act/poll-most-of-the-public-support-extending-the-acas-enhanced-premium-tax-credits-including-most-republicans-and-maga-supporters/",
+      "notes": "Democrats vs Republicans (party ID; leaners not specified). Fielded Jun 4-8, 2025. Exact wording paraphrased by KFF. R support fell to 50% in KFF's Oct-Nov 2025 poll (no D figure given there)."
+    },
+    {
+      "id": "gov-health-coverage",
+      "statement": "The federal government is responsible for making sure all Americans have health coverage.",
+      "original_wording": "Is it the federal government's responsibility to make sure all Americans have health care coverage?",
+      "d": 90,
+      "r": 41,
+      "pollster": "Pew Research Center",
+      "fielded": "Nov 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/12/10/most-americans-say-government-has-a-responsibility-to-ensure-health-care-coverage/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Nov 17-30, 2025."
+    },
+    {
+      "id": "drug-price-regulation",
+      "statement": "There should be more government regulation of prescription drug prices.",
+      "original_wording": "Is there more, less, or about the right amount of government regulation of prescription drug prices? (% not as much as there should be)",
+      "d": 77,
+      "r": 68,
+      "pollster": "KFF",
+      "fielded": "Feb-Mar 2026",
+      "url": "https://www.kff.org/public-opinion/poll-public-worries-about-prescription-drug-costs-reach-new-high-most-across-political-parties-want-government-to-do-more-to-regulate-prices/",
+      "notes": "Democrats vs Republicans; leaners not specified. Fielded Feb 24-Mar 2, 2026. Exact wording not shown on page."
+    },
+    {
+      "id": "social-security-no-cuts",
+      "statement": "Social Security benefits should not be reduced in any way.",
+      "original_wording": "Social Security benefits should not be reduced in any way (vs. reductions need to be considered)",
+      "d": 83,
+      "r": 77,
+      "pollster": "Pew Research Center",
+      "fielded": "2024",
+      "url": "https://www.pewresearch.org/politics/2024/06/24/americans-views-of-government-aid-to-poor-role-in-health-care-and-social-security/",
+      "notes": "Labeled Democrats/Republicans on page. Report published Jun 2024; field dates not stated on page."
+    },
+    {
+      "id": "raise-corporate-taxes",
+      "statement": "Tax rates on large businesses and corporations should be raised.",
+      "original_wording": "Should tax rates on large businesses and corporations be raised, lowered, or kept the same? (% raised)",
+      "d": 81,
+      "r": 43,
+      "pollster": "Pew Research Center",
+      "fielded": "Jan-Feb 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/03/19/most-americans-continue-to-favor-raising-taxes-on-corporations-higher-income-households/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Jan 27-Feb 2, 2025."
+    },
+    {
+      "id": "raise-taxes-400k",
+      "statement": "Tax rates on household income over $400,000 should be raised.",
+      "original_wording": "Should tax rates on household income over $400,000 be raised, lowered, or kept the same? (% raised)",
+      "d": 74,
+      "r": 43,
+      "pollster": "Pew Research Center",
+      "fielded": "Jan-Feb 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/03/19/most-americans-continue-to-favor-raising-taxes-on-corporations-higher-income-households/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Jan 27-Feb 2, 2025."
+    },
+    {
+      "id": "gov-retirement-income",
+      "statement": "The federal government is responsible for providing adequate retirement income for all.",
+      "original_wording": "Does the federal government have a responsibility to provide adequate income in retirement for all Americans?",
+      "d": 81,
+      "r": 50,
+      "pollster": "Pew Research Center",
+      "fielded": "Apr 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/05/06/americans-see-a-role-for-the-federal-government-in-many-domains-but-some-large-partisan-divisions-persist/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Apr 7-13, 2025."
+    },
+    {
+      "id": "gov-internet-access",
+      "statement": "The federal government is responsible for providing high-speed internet to all.",
+      "original_wording": "Does the federal government have a responsibility to provide high-speed internet access for all Americans?",
+      "d": 60,
+      "r": 31,
+      "pollster": "Pew Research Center",
+      "fielded": "Apr 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/05/06/americans-see-a-role-for-the-federal-government-in-many-domains-but-some-large-partisan-divisions-persist/",
+      "notes": "Dems and Dem-leaning independents vs. Reps and Rep-leaning independents. Fielded Apr 7-13, 2025."
+    },
+    {
+      "id": "nato-commitment",
+      "statement": "The U.S. should maintain or increase its commitment to NATO.",
+      "original_wording": "Should the U.S. increase, maintain, decrease, or withdraw its commitment to NATO? (% increase or maintain)",
+      "d": 86,
+      "r": 55,
+      "pollster": "Chicago Council on Global Affairs",
+      "fielded": "Jun 2026",
+      "url": "https://globalaffairs.org/research/public-opinion-survey/strong-bipartisan-support-nato-ahead-2026-summit",
+      "notes": "Democrats vs Republicans (Council-Ipsos). Fielded Jun 5-8, 2026."
+    },
+    {
+      "id": "russia-sanctions",
+      "statement": "The U.S. should impose additional economic and diplomatic sanctions on Russia.",
+      "original_wording": "Support/oppose: additional economic and diplomatic sanctions on Russia",
+      "d": 75,
+      "r": 69,
+      "pollster": "Chicago Council on Global Affairs",
+      "fielded": "Feb 2026",
+      "url": "https://globalaffairs.org/research/public-opinion-survey/americans-oppose-ceding-donbas-russia-amid-push-peace-deal",
+      "notes": "Democrats vs Republicans (Council-Ipsos). Fielded Feb 6-8, 2026. Verbatim wording not shown on page."
+    },
+    {
+      "id": "ukraine-military-aid",
+      "statement": "The U.S. should provide military aid to Ukraine.",
+      "original_wording": "Support/oppose: providing military aid to Ukraine",
+      "d": 72,
+      "r": 43,
+      "pollster": "Chicago Council on Global Affairs",
+      "fielded": "Feb 2026",
+      "url": "https://globalaffairs.org/research/public-opinion-survey/americans-oppose-ceding-donbas-russia-amid-push-peace-deal",
+      "notes": "Democrats vs Republicans (Council-Ipsos). Fielded Feb 6-8, 2026. Verbatim wording not shown on page."
+    },
+    {
+      "id": "immigration-good-thing",
+      "statement": "Immigration is a good thing for this country today.",
+      "original_wording": "Is immigration a good thing or a bad thing for this country today? (Gallup paraphrase on page)",
+      "d": 91,
+      "r": 50,
+      "pollster": "Gallup",
+      "fielded": "Jun 2026",
+      "url": "https://news.gallup.com/poll/712289/americans-support-immigration-down-strong.aspx",
+      "notes": "Democrats vs Republicans; page does not state whether leaners included. Fielded Jun 1-15, 2026."
+    },
+    {
+      "id": "deport-illegal-immigrants",
+      "statement": "Immigrants living in the U.S. illegally should be deported to their home countries.",
+      "original_wording": "Do you favor or oppose deporting immigrants who are living in the United States illegally back to their home countries?",
+      "d": 29,
+      "r": 93,
+      "pollster": "Marquette Law School",
+      "fielded": "Jan-Feb 2025",
+      "url": "https://law.marquette.edu/poll/2025/02/12/new-marquette-law-school-poll-national-survey-finds-public-strongly-favors-some-trump-policies-strongly-opposes-others/",
+      "notes": "Democrats vs Republicans; leaners not specified. Fielded Jan 27-Feb 5, 2025."
+    },
+    {
+      "id": "deport-long-term-workers",
+      "statement": "Illegal immigrants who've lived here for years, have jobs and no criminal record should be deported.",
+      "original_wording": "Favor/oppose deporting immigrants living in the U.S. illegally back to their home countries if they have lived here for many years, have a job and no criminal record",
+      "d": 22,
+      "r": 67,
+      "pollster": "Marquette Law School",
+      "fielded": "Jan-Feb 2025",
+      "url": "https://law.marquette.edu/poll/2025/02/12/new-marquette-law-school-poll-national-survey-finds-public-strongly-favors-some-trump-policies-strongly-opposes-others/",
+      "notes": "Democrats vs Republicans; leaners not specified. Fielded Jan 27-Feb 5, 2025. Full wording truncated on fetched page; conditions paraphrased from article."
+    },
+    {
+      "id": "school-vouchers",
+      "statement": "Tax-funded vouchers should help pay for children's private school tuition.",
+      "original_wording": "Favor/oppose: tax-funded vouchers that help pay for a child's tuition at a private school",
+      "d": 26,
+      "r": 47,
+      "pollster": "AP-NORC",
+      "fielded": "Jun 2025",
+      "url": "https://apnorc.org/projects/the-public-holds-nuanced-views-on-the-role-of-religion-in-public-schools/",
+      "notes": "Democrats vs Republicans; leaners not specified. Fielded Jun 5-9, 2025."
+    },
+    {
+      "id": "school-book-lists",
+      "statement": "Public schools should be required to give parents lists of the books students read.",
+      "original_wording": "Favor/oppose: requiring public schools to provide parents with lists of books",
+      "d": 40,
+      "r": 67,
+      "pollster": "AP-NORC",
+      "fielded": "Jun 2025",
+      "url": "https://apnorc.org/projects/the-public-holds-nuanced-views-on-the-role-of-religion-in-public-schools/",
+      "notes": "Democrats vs Republicans. Fielded Jun 5-9, 2025. Full wording not shown on page."
+    },
+    {
+      "id": "free-speech-important",
+      "statement": "Freedom of speech is extremely or very important to American democracy.",
+      "original_wording": "How important is freedom of speech? (% extremely/very important)",
+      "d": 87,
+      "r": 86,
+      "pollster": "AP-NORC",
+      "fielded": "Jun 2025",
+      "url": "https://apnorc.org/projects/the-public-holds-nuanced-views-on-the-role-of-religion-in-public-schools/",
+      "notes": "Democrats vs Republicans. Fielded Jun 5-9, 2025. Exact question stem not shown on page."
+    },
+    {
+      "id": "free-press-important",
+      "statement": "Freedom of the press is extremely or very important.",
+      "original_wording": "How important is freedom of the press? (% extremely/very important)",
+      "d": 80,
+      "r": 64,
+      "pollster": "AP-NORC",
+      "fielded": "Jun 2025",
+      "url": "https://apnorc.org/projects/the-public-holds-nuanced-views-on-the-role-of-religion-in-public-schools/",
+      "notes": "Democrats vs Republicans. Fielded Jun 5-9, 2025. Exact question stem not shown on page."
+    }
+  ],
+  "bonus_sets": [
+    {
+      "prompt": "Which political reform has the most support from both parties?",
+      "item_ids": [
+        "congress-term-limits",
+        "popular-vote",
+        "voter-id",
+        "auto-voter-registration"
+      ],
+      "answer_id": "congress-term-limits"
+    },
+    {
+      "prompt": "Which gun policy has the most support from both parties?",
+      "item_ids": [
+        "guns-mental-illness",
+        "gun-age-21",
+        "teachers-carry-guns",
+        "concealed-carry-more-places"
+      ],
+      "answer_id": "guns-mental-illness"
+    },
+    {
+      "prompt": "Which tech policy has the most support from both parties?",
+      "item_ids": [
+        "social-media-parental-consent",
+        "tech-restrict-false-info",
+        "trust-us-regulate-ai",
+        "phone-ban-all-day"
+      ],
+      "answer_id": "social-media-parental-consent"
+    },
+    {
+      "prompt": "Which economic idea has the most support from both parties?",
+      "item_ids": [
+        "social-security-no-cuts",
+        "extend-aca-credits",
+        "raise-corporate-taxes",
+        "gov-health-coverage"
+      ],
+      "answer_id": "social-security-no-cuts"
+    }
+  ]
+}
